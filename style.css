@@ -75,7 +75,7 @@ color: grey;
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7) url(img/holding_hands.jpeg);
+    background: rgba(0, 0, 0, 0.7) url(img/holding_hands.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -107,10 +107,10 @@ width: 30%;
 }
 
 .secondHalf img{
-    width: 70%;
+    width: 450px;
     border: 0px;
     box-shadow: 2px 2px 2px black;
-    border-radius: 100px;
+    border-radius: 10px;
     display: flex;
     margin: auto;
 }
@@ -171,7 +171,7 @@ width: 30%;
 width: 450px;
 border: 0px;
 box-shadow: 2px 2px 2px black;
-border-radius: 100px;
+border-radius: 10px;
 margin-top: 19px;
 }
 
